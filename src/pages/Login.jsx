@@ -6,6 +6,7 @@ export default function Login() {
       <h1>Login</h1>
       <label for="email">Enter your email:</label>
       <input type="email" id="email" name="email" />
+      <button>Get OTP</button>
       <br />
       <label for="otp">Enter the OTP received on Email:</label>
       <input type="number" name="otp" />
